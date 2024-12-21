@@ -1,3 +1,7 @@
+# Mortgage Rate Telegram Bot
+
+This is a simple program that pulls the current mortgage rates and notifies as a Telegram bot.
+
 ## Getting Started
 
 1. Clone the repository
